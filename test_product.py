@@ -2,8 +2,8 @@
 from product import product_details
 def test_product_details():
     expected_output=(
-        "Product Name:Keerti\n"
-        "Product ID:E193\n"
+        "Product Name:KitKat\n"
+        "Product ID:K193\n"
         "Quantity:40g\n"
         "Price:20\n"
     )
